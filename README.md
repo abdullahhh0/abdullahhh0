@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-Hi 👋 I'm Muhammad Abdullah Bin Nasir
+Hi I'm Muhammad Abdullah Bin Nasir
 </h1>
 
 <h3 align="center">
@@ -58,8 +58,6 @@ MERN Stack Developer • AI Integration • Automation • Software Engineering 
 
 <td align="center">
 
-🎓
-
 ### Education
 
 BS Software Engineering
@@ -69,8 +67,6 @@ University of Management & Technology
 </td>
 
 <td align="center">
-
-💼
 
 ### Focus
 
@@ -83,8 +79,6 @@ Automation
 </td>
 
 <td align="center">
-
-📍
 
 ### Location
 
@@ -173,7 +167,6 @@ Rather than simply writing code, I focus on building products that are reliable,
 I believe every project should emphasize:
 
 - Clean Architecture
-- Scalable Backend Systems
 - Maintainable Codebase
 - Responsive User Experience
 - Security Best Practices
@@ -1059,123 +1052,6 @@ My primary focus has been on creating scalable, maintainable, and user-centric s
 
 ---
 
-# 📜 Certifications
-
-Although I am currently focused on practical software development and real-world projects, I am actively preparing for professional certifications in the following areas.
-
-<table>
-
-<tr>
-
-<td align="center">
-
-### ☁ AWS
-
-Learning Cloud Fundamentals
-
-</td>
-
-<td align="center">
-
-### 🟠 Oracle
-
-Database Technologies
-
-</td>
-
-<td align="center">
-
-### 🌐 Cisco
-
-Networking Fundamentals
-
-</td>
-
-<td align="center">
-
-### 📖 NPTEL
-
-Software Engineering Courses
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 💻 Coding Profiles
-
-> _Currently focusing on building production-ready software projects instead of competitive programming._
-
-| Platform      | Status      |
-| ------------- | ----------- |
-| GitHub        | ✅ Active   |
-| LeetCode      | Coming Soon |
-| HackerRank    | Coming Soon |
-| GeeksforGeeks | Coming Soon |
-| CodeChef      | Coming Soon |
-
----
-
-# 📈 Development Journey
-
-```text
-Frontend Development
-        │
-        ▼
-JavaScript Mastery
-        │
-        ▼
-React Development
-        │
-        ▼
-Backend Development
-        │
-        ▼
-REST API Engineering
-        │
-        ▼
-Database Design
-        │
-        ▼
-Authentication Systems
-        │
-        ▼
-AI Integration
-        │
-        ▼
-Workflow Automation
-        │
-        ▼
-Full Stack Engineering
-```
-
----
-
-# 🎯 Engineering Goals
-
-### Short-Term Goals
-
-- Build scalable MERN applications
-- Strengthen backend engineering skills
-- Master system design fundamentals
-- Contribute to open source projects
-- Gain professional industry experience
-
----
-
-### Long-Term Goals
-
-- Become a Senior Software Engineer
-- Design enterprise-grade applications
-- Build AI-powered SaaS products
-- Contribute to impactful open-source projects
-- Continuously learn modern technologies
-
----
-
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=abdullahhh0&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
@@ -1195,18 +1071,6 @@ Full Stack Engineering
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahhh0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
----
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abdullahhh0&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -1234,57 +1098,11 @@ Full Stack Engineering
 
 # 🐍 Contribution Snake
 
-> **Enable this after creating the GitHub Action shown below.**
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/abdullahhh0/abdullahhh0/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
-
----
-
-## 🐍 Snake GitHub Action
-
-Create:
-
-```
-.github/workflows/snake.yml
-```
-
-Paste:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-
-        with:
-          github_user_name: abdullahhh0
-
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-
-        with:
-          target_branch: output
-          build_dir: dist
-
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 ---
 
